@@ -2,3 +2,5 @@ name: Friend-or-Foe
 version: '1.0'
 main: com.mills.friendOrFoe.Main
 api-version: '1.21'
+commands:
+  pvpinfo:
